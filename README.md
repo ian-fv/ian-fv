@@ -1,20 +1,20 @@
 ## 📖 About Me
-- 💻 I'm Ian Flaskamp, a software engineer interested in building user-focused web and desktop applications.
-- 🎓 Graduated with Magna Cum Laude in Computer Science from Carthage College.
-- 🌐 You can explore my diverse portfolio of projects on [GitHub](https://github.com/ian-fv?tab=repositories).
+- 💻 I'm Ian Flaskamp, a Software Engineer interested in building user-focused web and desktop applications.
+- 🎓 Graduated Magna Cum Laude in Computer Science from Carthage College.
+- 🌐 You can explore my diverse portfolio of projects [here](https://github.com/ian-fv?tab=repositories).
 
 ---
 
-## 🔧 Technologies & Tools
-- <img align="left" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> **Java** - My first OOP language I learned while in community college, used throughout my education there.
+## 🔧 Technologies
+- <img align="left" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> **Java** - My first OOP Language I learned while in community college, used throughout my education there.
 - <img align="left" alt="C++" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />**C++** - Learned at Carthage College, used extensively in all coursework.
 - <img align="left" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />**Python** - Used to automate mathematics and data specific tasks
-- <img align="left" alt="NodeJS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />**NodeJS** - Extensively used to manage packages in web app development.
-- <img align="left" alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />**React** - Used to build component-based web applications with REST API Integration and user authentication.
+- <img align="left" alt="Node.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />**Node.js** - Used to manage packages in web app development.
+- <img align="left" alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />**React** - Used to build component-based web applications with REST API integration and user authentication.
 - <img align="left" alt="Next.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />**Next.js** - Currently learning and using to upgrade my personal website.
 - <img align="left" alt="Flutter" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />**Flutter** - Used to build my meditation mobile app for my senior thesis project at Carthage.
 - <img align="left" alt="C#" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />**C#** - Used for game development in Unity.
-- <img align="left" alt="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />**Git** - Skilled in version control, enriched through releasing personal projects.
+- <img align="left" alt="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />**Git** - Skilled in version control through releasing personal projects.
 
 ---
 
